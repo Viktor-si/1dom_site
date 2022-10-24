@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+}
+.buttons{
+    display: flex;
+    width: 300px;
+    height: auto;
+}
+.p_1 {
+    height: 30.4px;
+}
+.p_2 {
+    width: 100px;
+}
+.button-1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 100px;
+    cursor: pointer;
+}
+.button-2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 100px;
+    cursor: pointer;
+}
